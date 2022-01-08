@@ -1,2 +1,2 @@
-# edit_termux
+# Termux
 tools edit termux menjadi keren. 
