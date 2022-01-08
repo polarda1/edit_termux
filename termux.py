@@ -38,9 +38,9 @@ def banner():
     os.system('cowsay -f eyes "iqbalz" | lolcat')
     iqbalz("\rp          TOOLS EDIT TERMUX KEREN")
     print s+"+---------------------------------------------+"
-    iqbalz ("\ra|  Author:\rh Iqbalz Noobs")
+    iqbalz ("\ra|  Author:\rh Rav Pratama")
     iqbalz ("\ra|  Team  :\rh LIFE OF PROGRAMMER")
-    iqbalz ("\ra|  github:\rh https://www.github.com/IqbalzNoobs")
+    iqbalz ("\ra|  github:\rh https://www.github.com/RavxD")
     print s+"|   +-----------------------------------------+"
     iqbalz("\rm|   | \rm[\rs1\rm]\rk  Ubah termux kamu sekarang          |")
     iqbalz("\rm|   | \rm[\rs2\rm]\rk  Cara Mengedit                      |")
